@@ -5,9 +5,9 @@ This skill looks up the caloriees in various foods
 This skill looks up the caloriees in various foods
 
 ## Examples
-* "How many calories are in"
-* "What the calories in"
-* "Lookup the calories for"
+* "How many calories are in rice"
+* "What the calories in filet mignon"
+* "Lookup the calories for a garbage plate"
 
 ## Credits
 Jonathan Stopchick
